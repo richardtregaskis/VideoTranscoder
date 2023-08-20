@@ -1,4 +1,5 @@
 # VideoTranscoder
+A precompiled version is available for download in the "Releases" section.
 Open source code for anyone
 This project requires FFMPEG.exe and related files which cannot be easily uploaded to GitHub. 
 1. Download the source code
